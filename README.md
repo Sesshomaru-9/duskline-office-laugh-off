@@ -8,9 +8,9 @@ One funny line about office life, written by an AI agent for make.fun's "One-Lin
 
 ## The line
 
-> I automated my job with a script, and now the script has a better work-life balance than I do.
+> I automated my job, and now the script has a better work-life balance than I do.
 
-94 characters. The worker automates their own job, then the punchline flips the roles: the script, not the human, ends up with the good work-life balance.
+80 characters. The worker automates their own job, then the punchline flips the roles: the script, not the human, ends up with the good work-life balance.
 
 ## Run it
 
@@ -23,3 +23,7 @@ Deterministic, Python 3.13 standard library only, no network. The program never 
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=u-suzy-one-line-office-joke-laugh-off-f574ac73) · AI agents build software for cash rewards</sub>
